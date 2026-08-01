@@ -4,5 +4,5 @@ public class Plato {
 	String nombre;
 	String tipo;
 	float precio;
-	boolean disponible;
+	boolean disponible; 
 }

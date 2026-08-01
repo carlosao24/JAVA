@@ -21,7 +21,7 @@ public class TestPlato {
 		
 		platoB.nombre = "Big Box Aros";
 		platoB.tipo = "Aros de Cebolla";
-		platoB.precio = 7.99f;
+		platoB.precio = 7.99f; 
 		platoB.disponible = true;
 		
 		System.out.println("===================Plato 2==============");
